@@ -1,2 +1,3 @@
 
 Hello first file.
+This is for seventh commit.
